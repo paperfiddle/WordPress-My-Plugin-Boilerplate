@@ -43,7 +43,7 @@ define( 'MY_PLUGIN_NAME_VERSION', '1.0.0' );
  */
 function activate_my_plugin_name() {
 	require_once plugin_dir_path( __FILE__ ) . 'includes/class-my-plugin-name-activator.php';
-	MY_Plugin_Name_Activator::activate();
+	My_Plugin_Name_Activator::activate();
 }
 
 /**
