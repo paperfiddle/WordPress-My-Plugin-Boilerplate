@@ -31,17 +31,7 @@ You can then do a project-wide find-and-replace within all files:
 * Replace `MY_PLUGIN_NAME_` with `EXAMPLE_ME_`
 * Replace `my_plugin_name` with `example_me`
 
-* Replace `this` 
-* Replace `this` 
-* Replace `this` 
-* Replace `this` 
-
-
-
-
 And here's some other things to find-and-replace: 
 
 * Replace `http://example.com` 
-* Replace `Your Name <email@example.com>` 
-* Replace `this` 
-* Replace `this` 
+* Replace `Your Name <email@example.com>`
