@@ -1,6 +1,6 @@
 # WordPress My Plugin Boilerplate
 
-A variation of the origianl & awesome [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) that makes it easier to find-replace instances of your plugin's name. 
+A variation of the original & awesome [WordPress Plugin Boilerplate](https://github.com/DevinVinson/WordPress-Plugin-Boilerplate) that makes it easier to find-replace instances of your plugin's name. 
 
 
 ## The Original
